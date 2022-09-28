@@ -13,7 +13,8 @@
 'til	t "I l
 'tis	t "I z
 'twas	t w "V z
-a	@
+a	1	@
+a	2	"e I
 a's	"e I z
 aaberg	"A: b @` g
 aachen	"A: k @ n
@@ -57882,6 +57883,7 @@ hyundai	2	h "V n d %e I
 hyundai's	h "V n d %e I z
 hyundais	h j "V n d %e I z
 hywell	h "a I w E l
+i	"a I
 i'd	"a I d
 i'ers	"a I @` z
 i'll	"a I l
